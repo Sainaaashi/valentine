@@ -4,14 +4,14 @@
   <meta charset="UTF-8">
   <title>Valentine?</title>
   <style>
-    body {
-      background: #f6c1cc;
-      font-family: Arial, sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
+  body {
+  background: #f6c1cc;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
 
     .card {
       background: white;
@@ -49,7 +49,7 @@
 <body>
 
   <div class="card">
-    <h2>nirali will you be my valentine?</h2>
+    <h2>Hey Gyal will you be my valentine?</h2>
     <button id="yes" onclick="alert('Yay ❤️')">Yes</button>
     <button id="no">No</button>
   </div>
